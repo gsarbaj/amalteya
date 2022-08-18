@@ -20,9 +20,9 @@ exports.onCreateWebpackConfig = ({actions}) => {
                         options: {
                             lessOptions: {
                                 modifyVars: {
-                                    'primary-color': '#1DA57A',
-                                    'link-color': '#1DA57A',
-                                    'border-radius-base': '2px',
+                                    'primary-color': '#663399',
+                                    'link-color': '#663399',
+                                    'border-radius-base': '3px',
                                 },
                                 javascriptEnabled: true,
                             }
