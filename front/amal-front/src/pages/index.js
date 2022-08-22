@@ -6,6 +6,7 @@ import * as styles from "../components/index.module.css"
 import {Button, Checkbox} from "antd";
 
 import 'antd/dist/antd.less'
+import Navbar from "../components/Navbar";
 
 const links = [
   {
@@ -56,7 +57,6 @@ const moreLinks = [
   { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },
 ]
 
-const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
 
 const IndexPage = () => (
   <Layout>

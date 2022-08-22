@@ -3,7 +3,7 @@ module.exports = {
         title: `Амальтея`,
         description: `Обувь оптом от производителя. Большой выбор мужской, женской и детской обуви оптом.`,
         author: `@gsarbaj`,
-        siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+        siteUrl: `https://amalteya-shoes.ru/`,
     },
     plugins: [
         `gatsby-plugin-image`,
